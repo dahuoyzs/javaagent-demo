@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Built-By: dahuoyzs
+Created-By: Apache Maven 3.6.0
+Build-Jdk: 1.8.0_171
+Premain-Class: cn.bigfire.Agent1
+Can-Retransform-Classes: true
